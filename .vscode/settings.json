@@ -1,7 +1,11 @@
 {
   "files.associations": {
-    "*.overlay": "dts",
-    "*.keymap": "dts"
+    "*.overlay": "dts"
   },
-  "python.formatting.provider": "black"
+  "python.formatting.provider": "black",
+  "workbench.colorCustomizations": {
+    "activityBar.background": "#280793",
+    "titleBar.activeBackground": "#3809CD",
+    "titleBar.activeForeground": "#FEFDFF"
+  }
 }
